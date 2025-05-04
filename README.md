@@ -5,7 +5,6 @@ This project uses an LSTM-based deep learning model to detect sleep apnea using 
 ## 1. Dataset Description
 
 ## Dataset
-## Dataset
 
 # You can download the dataset used in this project from the following link: [Kaggle - Apnea-ECG Database](https://www.kaggle.com/datasets/ecerulm/apneaecg)
 
